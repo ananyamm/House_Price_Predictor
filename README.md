@@ -36,4 +36,4 @@ A Machine Learning model to predict the house prices using supervised learning t
 
 ## Dataset Reference
 
-I have uploaed the csv file in this repository [Link]()
+I have uploaded the csv file in this repository [house_price.csv](https://github.com/ananyamm/House_Price_Predictor/blob/main/house_price.csv)
